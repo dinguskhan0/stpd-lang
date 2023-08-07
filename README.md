@@ -1,5 +1,5 @@
 # stpd-lang
-turing-complete (i hope) language that only uses these 5 characters: `#@$>!`
+turing-complete (i hope) language that only uses these 5 characters: `#@$>!`  
 all the rest are completely ignored 
 
 ## installation
