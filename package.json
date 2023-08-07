@@ -1,6 +1,6 @@
 {
   "name": "stpdc",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "CLI for stpd-lang",
   "bin": {
     "stpdc": "./dist/cli.js"
