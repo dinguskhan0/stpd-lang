@@ -8,7 +8,8 @@ your pain starts with this command (which installs the stpd CLI)
 `npm i -g stpdc`
 
 ## cli usage
-run `stpdc <path>` to execute a stpd-lang program
+run `stpdc <path>` to execute a stpd-lang program  
+run `stdpc --help` to see the other commands in the CLI  
 
 ## manual
 > please note that at this point you can turn back and keep your sanity. `Alt + F4` is only two keypresses away. it can even be done one-handed.
