@@ -1,4 +1,7 @@
 # stpd-lang
+
+> oops i just realized i completely ignored CI on this. no CI for you!
+
 turing-complete (i hope) language that only uses these 5 characters: `#@$>!`  
 all the rest are completely ignored 
 
